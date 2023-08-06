@@ -1,0 +1,13 @@
+//tailwind
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+// imports
+@import "variables";
+@import "mixins";
+@import "body";
+
+// components
+@import "components/buttons";
+@import "components/game-layout";

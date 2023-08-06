@@ -1,0 +1,29 @@
+// use neon colors
+// primary is blue
+// secondary is orange
+// background us grades of dark blue/black
+// text is white
+// buttons are blue and red
+// borders are blue and red
+// use blue and red for the graphs
+
+$primary: #007bff;
+$secondary: #6c757d;
+$success: #28a745;
+$info: #17a2b8;
+$warning: #ffc107;
+$danger: #dc3545;
+$light: #f8f9fa;
+$dark: #343a40;
+
+
+$colors: (
+    "primary": $primary,
+    "secondary": $secondary,
+    "success": $success,
+    "info": $info,
+    "warning": $warning,
+    "danger": $danger,
+    "light": $light,
+    "dark": $dark
+);
